@@ -1,0 +1,12 @@
+[
+    [
+        { 	"op": "add",
+            "path": "/collectables/avaliflatbread",
+            "value":
+            {
+            "order" : 290,
+            "item" : "avaliflatbread"
+            }
+        }
+    ]
+]

@@ -1,0 +1,11 @@
+*.png
+**/*.png
+*.lua
+**/*.lua
+*.md
+**/*.md
+*.ogg
+**.*.ogg
+*.disabled
+**/*.disabled
+*.config

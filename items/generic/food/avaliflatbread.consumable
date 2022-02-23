@@ -1,0 +1,24 @@
+{
+    "itemName": "avaliflatbread",
+    "rarity": "common",
+    "price": 75,
+    "category": "preparedFood",
+    "inventoryIcon": "avaliflatbread.png",
+    "description": "Flat and very soft bread, traditionally made by Avali.",
+    "shortdescription": "Piru-Flatbread",
+    "effects" : [ [
+        {
+            "effect" : "maxhealthscalingboostfood",
+            "duration" : 180
+        }
+    ] ],
+    "foodValue": 20,
+    "tooltipKind": "food",
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 2,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}
