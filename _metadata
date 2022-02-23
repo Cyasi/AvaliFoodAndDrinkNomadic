@@ -1,9 +1,11 @@
 {
   "author" : "Cyasi",
-  "description" : "[h1]Avali Food and Drink Mod - Nomadic Life for Starbound 1.4.[/h1] \nPlease be aware that the recipes can only be crafted at the Avali Cooking Station, made at the Nanolathe. \n\n-------------------------- \n[b]If you have issues, please go to https://github.com/Cyasi/AvaliFoodAndDrinkNomadic/issues and post a new issue describing the problem. Include your starbound.log file located at \"/steamapps/common/Starbound/storage/starbound.log\". \n[u]I CANNOT FIX YOUR ISSUE WITHOUT THIS FILE[/u].[/b]  \n-------------------------- \n\n",
+  "description" : "[h1]Avali Food and Drink Mod - Nomadic Life for Starbound 1.4.[/h1] \nPlease be aware that the recipes can only be crafted at the Avali Cooking Station, made at the Nanolathe, after getting the blueprints by picking up different items. \n\n-------------------------- \n[b]If you have issues, please go to https://github.com/Cyasi/AvaliFoodAndDrinkNomadic/issues and post a new issue describing the problem. Include your starbound.log file located at \"/steamapps/common/Starbound/storage/starbound.log\". \n[u]I CANNOT FIX YOUR ISSUE WITHOUT THIS FILE[/u].[/b]  \n-------------------------- ",
   "friendlyName" : "Avali Food and Drink Mod - Nomadic Life",
   "includes" : ["Avali Food and Drink Mod"],
+  "link" : "steam://url/CommunityFilePage/2762363636",
   "name" : "AvaliFoodAndDrinkNomadic",
+  "steamContentId" : "2762363636",
   "tags" : "Food and Farming",
   "version" : "1.0.0"
 }
