@@ -1,0 +1,24 @@
+{
+    "itemName": "kiribowl",
+    "rarity": "common",
+    "price": 20,
+    "category": "preparedFood",
+    "inventoryIcon": "kiribowl.png",
+    "description": "A sweet Kiri, sliced and easy to eat to refill a bit hunger.",
+    "shortdescription": "Kiri-Bowl",
+    "effects" : [ [
+        {
+            "effect" : "maxhealthscalingboostfood",
+            "duration" : 180
+        }
+    ] ],
+    "foodValue": 10,
+    "tooltipKind": "food",
+    "builder": "/items/buildscripts/buildfood.lua",
+    "maxStack": 1,
+    "itemAgingScripts": ["/scripts/items/rotting.lua"],
+    "rottingMultiplier": 2,
+    "blockingEffects": [
+        "wellfed"
+    ]
+}

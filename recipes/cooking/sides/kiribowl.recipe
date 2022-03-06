@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "avaliproduce1", "count" : 2 }
+  ],
+  "output" : { "item" : "kiribowl", "count" : 1 },
+  "groups" : [ "campfire", "sides", "craftingfood" ],
+  "collectables" : { "cooking" : "kiribowl" }
+}
