@@ -7,6 +7,14 @@
             "order" : 290,
             "item" : "avaliflatbread"
             }
+        },
+        { 	"op": "add",
+            "path": "/collectables/kiribowl",
+            "value":
+            {
+            "order" : 291,
+            "item" : "kiribowl"
+            }
         }
     ]
 ]

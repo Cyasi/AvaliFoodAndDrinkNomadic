@@ -5,7 +5,7 @@
     "category": "preparedFood",
     "inventoryIcon": "kiribowl.png",
     "description": "A sweet Kiri, sliced and easy to eat to refill a bit hunger.",
-    "shortdescription": "Kiri-Bowl",
+    "shortdescription": "Prepared Kiri's",
     "effects" : [ [
         {
             "effect" : "maxhealthscalingboostfood",
@@ -17,7 +17,7 @@
     "builder": "/items/buildscripts/buildfood.lua",
     "maxStack": 1,
     "itemAgingScripts": ["/scripts/items/rotting.lua"],
-    "rottingMultiplier": 2,
+    "rottingMultiplier": 1,
     "blockingEffects": [
         "wellfed"
     ]

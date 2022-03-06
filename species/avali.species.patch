@@ -4,6 +4,11 @@
             "op" : "add",
             "path" : "/defaultBlueprints/tier1/-",
             "value" : { "item" : "avaliflatbread"}
+        },
+        {
+            "op" : "add",
+            "path" : "/defaultBlueprints/tier1/-",
+            "value" : { "item" : "kiribowl"}
         }
     ]
 ]
