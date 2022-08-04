@@ -3,6 +3,6 @@
     { "item" : "avaliflour", "count" : 1 }
   ],
   "output" : { "item" : "avaliflatbread", "count" : 1 },
-  "groups" : [ "campfire", "sides", "craftingfood" ],
+  "groups" : [ "campfire", "sides", "craftingfood", "avalifood" ],
   "collectables" : { "cooking" : "avaliflatbread" }
 }
